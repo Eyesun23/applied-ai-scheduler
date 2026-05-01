@@ -1,6 +1,6 @@
 # Applied AI Scheduler
 
-Two Claude Skills — **Scheduler** and **Ping** — wired together with a Vercel cron job that POSTs to a webhook every day at midnight UTC.
+Two Claude Skills **Scheduler** and **Ping** wired together with a Vercel cron job that POSTs to a webhook every day at midnight UTC.
 
 * **Live Vercel URL:** https://ai-scheduler-nu.vercel.app  
 * **Manual Trigger:** https://ai-scheduler-nu.vercel.app/api/cron  
@@ -20,7 +20,7 @@ Two Claude Skills — **Scheduler** and **Ping** — wired together with a Verce
 
 ---
 
-## 🚀 Setup
+## Setup
 
 1. Install the [Vercel CLI](https://vercel.com/docs/cli): `npm i -g vercel`
 2. Link and deploy your project:
